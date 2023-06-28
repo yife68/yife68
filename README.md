@@ -13,7 +13,7 @@ Welcome to my blog. [Let's go!](https://meuicat.com/)
 
 About iCat's project mini station - [BuQiTang FM](https://radio.meuicat.com/)
 
-[![wakatime](https://wakatime.com/badge/user/83fb0ced-264a-4219-b3ae-e8d36271fda7.svg)](https://wakatime.com/@83fb0ced-264a-4219-b3ae-e8d36271fda7) ![visitors](https://visitor-badge.glitch.me/badge?page_id=yife68)
+[![wakatime](https://wakatime.com/badge/user/83fb0ced-264a-4219-b3ae-e8d36271fda7.svg)](https://wakatime.com/@83fb0ced-264a-4219-b3ae-e8d36271fda7)
 
 <br>
 
