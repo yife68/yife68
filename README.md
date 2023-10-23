@@ -1,4 +1,4 @@
-## 👋 Hello! I'm LX亦封 (Alsosealed)
+## 👋 Hello! I'm 亦小封
 
 <!-- 动态打字效果 -->
 <h1 align="right">
